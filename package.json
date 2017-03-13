@@ -1,0 +1,10 @@
+{
+	"name":         "hvv-stops",
+	"version":      "0.0.1",
+	"main":         "index.js",
+	"files":        ["index.js"],
+	"engines" :     {"node": ">=6"},
+	"dependencies": {
+		"hafas-export-stops-by-coordinates": "^0.2.0"
+	}
+}
